@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.viastore.vision"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "jenkinsjhip",
+    "packageName": "com.viastore.vision",
+    "packageFolder": "com/viastore/vision",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODczNmM5OTRiNDk3MjZkZWE5NTY3NzBiOWYzNjg0YzAxZTgyZDg2YjhmNTU1MTMwZDA0ZGExMDg3NjgxMzVlMzBhNTM3OTMzZWVhMWUzZGEyNGVkM2FhYzViNmQxYTM1MDU1NTE4MDA4ZDdmNTdlZGM2MGZiNTVkMWZiOTFhNGM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
